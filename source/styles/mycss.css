@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+body {
+    background: linear-gradient(180deg , #570559  0% , #F79EF8  100% );
+    font-family: 'Michroma', serif
+}
+
+.navbar{
+    background: linear-gradient(360deg , #570559  0% , #F79EF8  100% );
+    
+}
+.navbar-brand img {
+    width: 40px;
+}
+.container-fluid{
+    margin-top: 4em;
+}
